@@ -1,0 +1,1 @@
+This is a README for the UI-features branch. If this was a real project I would commit my UI desings to this branch before they get offically accepted into the develop/main branches. This is considered best practice and is called the GitFlow method according to the video I watched.
