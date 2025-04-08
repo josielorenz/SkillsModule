@@ -1,0 +1,1 @@
+This is the README for the develop branch. This, like main, is a long running branch. All features that are devloped are merged into the develop branch, and once all testing is complete and the branch is confirmed to be deployment ready, it is then merged into main. This keeps the main branch clean from any buggy code and seperates the finished and the working code.
